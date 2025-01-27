@@ -1,1 +1,3 @@
-
+In this ASW_assign folder we have the zip and yaml file having teo functions:-
+1.Aws lambda function that adds 2 numbers and return the function 
+2.Aws lamda function to stote pdf or csv file to s3 bucket.
